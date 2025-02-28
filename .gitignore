@@ -1,0 +1,30 @@
+# Файлы, создаваемые CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Папка сборки
+build/
+.vs/
+
+# Исполняемые файлы
+my_console_tool
+my_console_tool.exe
+
+# Логи и временные файлы*.log
+*.tmp
+
+# Объектные файлы
+*.o
+*.obj
+*.lo
+*.slo
+*.pdb
+
+# Файлы редакторов/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
