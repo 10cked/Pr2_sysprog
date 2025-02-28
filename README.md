@@ -14,7 +14,7 @@
 
 1. **Клонировать репозиторий и перейти в корневой каталог:**
    ```bash
-   git clone https://example.com/my_console_tool.git
+   git clone https://github.com/10cked/Pr2_sysprog.git
    cd my_console_tool
    ```
 2. **Создать и перейти в директорию сборки:**
